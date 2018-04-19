@@ -1,0 +1,4 @@
+[cli]
+bears = SpaceConsistencyBear
+files = transferro.py
+use_spaces = False
