@@ -4,7 +4,7 @@ A python script to transfer files between computer when they are on same local n
 [![Build Status](https://travis-ci.org/monsij/Transferro.svg?branch=master)](https://travis-ci.org/monsij/Transferro)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Join the chat at https://gitter.im/Transferro/Lobby](https://badges.gitter.im/Transferro/Lobby.svg)](https://gitter.im/Transferro/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e451e3b9bbb14f07af29145412f9966a)](https://www.codacy.com/app/biswalmonsij/Transferro?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=monsij/Transferro&amp;utm_campaign=Badge_Grade)
 
 
 
