@@ -4,14 +4,14 @@ from tkinter import Tk,filedialog
 temp_file,temp_socket = None, None
 
 def receiver():
-		global temp_file,temp_socket
-		s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-		temp_socket = s
-		port = 54321
-		host = input('Enter Sender IP: ')
-##		  CONNECTION
-		while True:
-				try:
+        global temp_file,temp_socket
+        s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+        temp_socket = s
+        port = 54321
+        host = input('Enter Sender IP: ')
+##        CONNECTION
+        while True:
+                try:
                         s.connect((host,port))
                         break
                 except:
